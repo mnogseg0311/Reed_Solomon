@@ -1,6 +1,6 @@
 Treball final de l'assignatura d'eines informàtiques per les matemètiques
 Universitat Autònoma de Barcelona, curs 2021-22
-A revisar i millorar
+A revisar i millorar (va ser el meu primer projecte)
 
 Programa escrit en c que codifica i descodifica (corregint errors) fitxers de tipus .dat, .txt i .bin
 utilitza l'algorisme de Reed-Solomon i de Berlekamp-Welch
